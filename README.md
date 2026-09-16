@@ -143,4 +143,4 @@ stock.txt                   → Inventory and prices
 
 ## 👤 Author
 
-**Abdullah Aziz**
+**M Usman**
